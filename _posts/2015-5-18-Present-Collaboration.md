@@ -22,7 +22,7 @@ Having spent a morning working as a team of 4 we realised it was time to refresh
 
 There had been a note on one of our slack boards about using [Balsamiq](https://balsamiq.com/) for wireframing, so we decided to try it out and are glad we did. It is an incredibly easy to pickup tool and actually allowed us to remotely "pair wireframe" in a driver navigator combo which was a very efficent and collaborative way to approach this. This is a process I am new too and had identified as a weak point from a previous project, I can see now how it gives you a very good picture of what you are trying to achieve and is a great step to take at the point you are unsure of the next direction to take. Some examples of our wireframing are below:
 
-<img src="/images/WFhomepage.png" width="130px" /><img src="/images/WFsignUp.png" width="130px" /><img src="/images/WFsignedInUser.png" width="130px" /><img src="/images/WFaddGift.png" width="130px" /><img src="/images/WFgiftManagement.png" width="130px" />
+<div class="center-image"><img src="/images/WFhomepage.png" width="130px" /><img src="/images/WFsignUp.png" width="130px" /><img src="/images/WFsignedInUser.png" width="130px" /><img src="/images/WFaddGift.png" width="130px" /><img src="/images/WFgiftManagement.png" width="130px" /></div>
 
 ##EDUF##
 
