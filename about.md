@@ -9,6 +9,7 @@ Geo Tech Director at RB Geomatics
 Professional Interests:
 
 - Geodesy
+- Geographic Data Management
 - Pipeline Management
 - Linear Asset Management
 - GNSS
