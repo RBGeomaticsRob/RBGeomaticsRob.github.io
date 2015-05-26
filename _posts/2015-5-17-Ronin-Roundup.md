@@ -2,7 +2,7 @@
 layout: post
 title: Ronin Roundup
 ---
-As we enter the final stages of the Makers Academy Ronin Web Development Bootcamp. It seems appropriate to blog the process of our final project as a way for myself to document what I know will be a very fast moving process, providing a venue to analyse the day and a reflective source to come back to after the process.
+A we enter the final stages of the Makers Academy Ronin Web Development Bootcamp. It seems appropriate to blog the process of our final project as a way for myself to document what I know will be a very fast moving process, providing a venue to analyse the day and a reflective source to come back to after the process.
 
 These two weeks will be very important to me as the reason for joining the Ronin cohort was to develop the skills for fast prototyping of applications to keep providing our clients at work with innovative solutions to their problems. I am thoroughly looking forward to trialling this in the 'safe' environment of this learning environment.
 
