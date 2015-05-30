@@ -28,7 +28,7 @@ There had been a note on one of our slack boards about using [Balsamiq](https://
 
 The other half of the team went off to look a the structure in genreal the app would require and more importantly the messages that the app would need to recieve and respond with, by default creating our API's routing structure.
 
-At this point the two teams came back together to review each others process, a decision well made as using this process we moved forward quickly and produced a some solid decisions as both were revisited by another pair and the original pair had to explain their original reasoning which is always good for some rubber ducking of ideas.
+At this point the two teams came back together to review each others process, a decision well made as using this process we moved forward quickly and produced a some solid decisions as both were revisited by another pair and the original pair had to explain their original reasoning which is always good for some rubber ducking of the ideas.
 
 ##Technologies##
 
